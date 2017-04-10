@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: myStudentDB-SD14CS005
+  host: myStudentDB-SD14CS005
+  disk_quota: 1024M
